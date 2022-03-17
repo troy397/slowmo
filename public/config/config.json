@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://bscscan.com/search?f=0&q=0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Slow Mo Sloth Club",
+  "SYMBOL": "SMSNFT",
+  "MAX_SUPPLY": 6000,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.gg/smsc",
+  "SHOW_BACKGROUND": true
+}
